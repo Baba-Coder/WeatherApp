@@ -1,1 +1,1 @@
-Surrently learning python. My first python project. This app Simple python project,  weatherapp to check the current foer any city in the world. Gives the country of the city and the weather situation of that city.
+Currently learning python. My first python project. This app Simple python project,  weatherapp to check the current foer any city in the world. Gives the country of the city and the weather situation of that city.
